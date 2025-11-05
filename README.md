@@ -1,6 +1,6 @@
 
-# FBX Export Tool
-### Autodesk Maya
+# FBX Export Tool 
+### Autodesk Maya // Python
   ✦Allows artist to create bounding box, lightmap UV, and sets pivot to bottom center of each mesh
   
   ✦Exports FBX and textures
@@ -12,7 +12,9 @@
 View Code Snippets
 
 # Stairs Generation Tool
-### Autodesk Maya
+### Autodesk Maya // Python
+✦Creates stairs mesh automatically, adjustable height, width, depth, and number of steps.
+
 ![UI_Stairs_2](https://github.com/user-attachments/assets/555dbf49-e397-42d1-8106-b46ee0060726)
 
 
