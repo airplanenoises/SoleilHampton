@@ -1,11 +1,27 @@
 
 # FBX Export Tool 
 ### Autodesk Maya // Python
-  ✦Allows artist to create bounding box, lightmap UV, and sets pivot to bottom center of each mesh
+  ✦ Custom PySide6 UI for intuitive, one-click batch export — minimizing artist error and improving iteration speed
+
+  ✦ Toggleable options for texture export, UV generation, pivot adjustment, and bounding box creation
   
-  ✦Exports FBX and textures
+  ✦ Automatic texture collection and conversion (PNG/TGA/JPG/TIFF) using Pillow — ensures consistent format across assets
+
+  ✦ Progress bar and success indicator give real-time feedback during export
   
-  ✦Creates log file
+  ✦ Comprehensive logging (with timestamps and error handling) for easy debugging and batch-process verification
+
+  ✦ “Export Selected” and “Export All” modes provide flexibility for asset-specific or full-scene exports
+  
+  ✦ Clean code structure separates UI from core logic for maintainability and scalability
+
+  ✦ Robust error handling prevents crashes from missing materials, unassigned shaders, or bad file paths
+
+  ✦ Configurable export settings stored per session for faster repeat exports
+
+  ✦ Organized output folder structure automatically creates “FBX” and “Textures” directories in project workspace
+
+
   
   ![UI_Exporter](https://github.com/user-attachments/assets/e5b453ea-b2c5-471c-b67b-bd22f5ae21b3)
 
