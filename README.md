@@ -2,7 +2,9 @@
 # FBX Export Tool
 ### Autodesk Maya
   ✦Creates bounding box, lightmap UV, and sets pivot to bottom center of each mesh
+  
   ✦Exports FBX and textures
+  
   ✦Creates log file
 View Code Snippets
 
