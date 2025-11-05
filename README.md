@@ -1,6 +1,9 @@
 
 # FBX Export Tool 
 ### Autodesk Maya // Python
+
+  ![UI_Exporter](https://github.com/user-attachments/assets/e5b453ea-b2c5-471c-b67b-bd22f5ae21b3)
+  
   ✦ Custom PySide6 UI for intuitive, one-click batch export — minimizing artist error and improving iteration speed
 
   ✦ Toggleable options for texture export, UV generation, pivot adjustment, and bounding box creation
@@ -23,7 +26,7 @@
 
 
   
-  ![UI_Exporter](https://github.com/user-attachments/assets/e5b453ea-b2c5-471c-b67b-bd22f5ae21b3)
+
 
 View Code Snippets
 
